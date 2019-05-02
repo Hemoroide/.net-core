@@ -1,0 +1,36 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.28803.352
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "CoursWebMVCdotnet", "CoursWebMVCdotnet\CoursWebMVCdotnet.csproj", "{7D78634D-8DF7-424C-8F66-E753B7287975}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Exemple", "Exemple", "{F6F1BECA-2264-4CE5-A4E3-5FAC5A4369F1}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "jeudontonestlehero.Web.UI", "..\jeudontonestlehero.Web.UI\jeudontonestlehero.Web.UI.csproj", "{99FE6BE4-8F6B-4AD4-B396-B17D7191A6D4}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{7D78634D-8DF7-424C-8F66-E753B7287975}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7D78634D-8DF7-424C-8F66-E753B7287975}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7D78634D-8DF7-424C-8F66-E753B7287975}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7D78634D-8DF7-424C-8F66-E753B7287975}.Release|Any CPU.Build.0 = Release|Any CPU
+		{99FE6BE4-8F6B-4AD4-B396-B17D7191A6D4}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{99FE6BE4-8F6B-4AD4-B396-B17D7191A6D4}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{99FE6BE4-8F6B-4AD4-B396-B17D7191A6D4}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{99FE6BE4-8F6B-4AD4-B396-B17D7191A6D4}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(NestedProjects) = preSolution
+		{7D78634D-8DF7-424C-8F66-E753B7287975} = {F6F1BECA-2264-4CE5-A4E3-5FAC5A4369F1}
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {1E4C414C-4D43-4215-8A7B-09F8DB7AA199}
+	EndGlobalSection
+EndGlobal
